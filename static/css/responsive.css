@@ -106,7 +106,7 @@
 	    width: 100%;
 	}
 	.site-logo a img {
-	    max-width: 150px;
+	    max-width: 95px;
 	}
 	.site-logo {
 	    text-align: center;
@@ -205,7 +205,7 @@
 @media only screen and (max-width: 767px) {
 
 	.site-logo img {
-	    max-width: 150px;
+	    max-width: 89px;
 	}
 
 	.responsive-menu-wrap {
